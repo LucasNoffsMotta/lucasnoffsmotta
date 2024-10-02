@@ -1,4 +1,8 @@
-## Ola! 👋
+## Ola, meu nome e Lucas e eu sou um programador em formacao! 👋
+
+- 🔭 Estudando Analise e Desenvolvimento de Sistemas ...
+- 🌱 Atualmente aprendendo C# e desenvolvimento de jogos...
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnoffsmotta&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnoffsmotta&layout=donut)](https://github.com/lucasnoffsmotta/github-readme-stats)
@@ -17,8 +21,6 @@
   <a href="https://www.linkedin.com/in/lucas-noffs-motta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-
-![snake gif](https://github.com/lucasnoffsmotta/lucasnoffsmotta/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **LucasNoffsMotta/lucasnoffsmotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
