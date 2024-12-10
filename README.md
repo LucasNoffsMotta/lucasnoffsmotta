@@ -1,6 +1,6 @@
 <h1>Sobre Mim</h1>
 
-<p>## Olá!👋 Sou estudante do 1º período de Análise e Desenvolvimento de Sistemas no Senac São Paulo. Apaixonado por desenvolvimento de software e programação. Atualmente, moro em Vancouver, Canadá.</p>
+<p>## Olá!👋 Sou estudante do 1º período de Análise e Desenvolvimento de Sistemas no Senac São Paulo. Apaixonado por desenvolvimento de software e programação.</p>
 
 <section>
 <h2>🚀 Habilidades</h2>
