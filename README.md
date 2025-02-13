@@ -6,7 +6,7 @@
 <h2>🚀 Habilidades</h2>
 <list>
 <li>Linguagens de Programação: Python, C# </li>
-<li>Desenvolvimento Web: ASP.NET, REST / RESTFULL API`s, HTML, CSS, JavaScript, ASP.NET</li>
+<li>Desenvolvimento Web: ASP.NET, REST / RESTFUL API`s, HTML, CSS, JavaScript, ASP.NET</li>
 <li>Banco de Dados: SQLite, SQL Server, MySQL</li>
 <li>Desenvolvimento Desktop: WinForms, Monogame</li>
 <li>Ferramentas de Versionamento: Git, GitHub</li>
