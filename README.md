@@ -20,7 +20,7 @@
 <li>Graduação em Análise e Desenvolvimento de Sistemas no Senac São Paulo</li>
 <li>Graduado em Sales and Marketing pela International Language Academy of Canada</li>
 <li>Graduado em Gestão de Eventos pela Fatec Ipiranga</li>
-<li>Inglês Avançado</li>
+<li>Inglês Fluente</li>
 <li>Espanhol Intermediário</li>
 </list>
 </section>
