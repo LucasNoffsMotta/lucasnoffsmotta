@@ -3,15 +3,17 @@
 <p>## Olá!👋 Sou estudante do 2º período de Análise e Desenvolvimento de Sistemas no Senac São Paulo. Apaixonado por desenvolvimento de software e programação.</p>
 
 <section>
-<h2>🚀 Habilidades</h2>
-<list>
-<li>Linguagens de Programação: Python, C# </li>
-<li>Desenvolvimento Web: ASP.NET, REST / RESTFUL API`s, HTML, CSS, JavaScript, ASP.NET</li>
-<li>Banco de Dados: SQLite, SQL Server, MySQL</li>
-<li>Desenvolvimento Desktop: WinForms, Monogame</li>
-<li>Ferramentas de Versionamento: Git, GitHub</li>
-</list>
+    <h2>🚀 Habilidades</h2>
+    <list>
+        <li>Linguagens de Programação: C#, Java, Python</li>
+        <li>Desenvolvimento Web: ASP.NET Core, REST / RESTFUL APIs, HTML, CSS, JavaScript</li>
+        <li>Arquitetura de Desenvolvimento: MVC, Web APIs</li>
+        <li>Metodologias Ágeis: Scrum</li>
+        <li>Banco de Dados: SQLite, SQL Server, MySQL</li>
+        <li>Ferramentas de Versionamento: Git, GitHub</li>
+    </list>
 </section>
+
 
 
 <section>
