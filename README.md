@@ -1,6 +1,6 @@
 <h1>Sobre Mim</h1>
 
-<p>## Olá!👋 Sou estudante do 2º período de Análise e Desenvolvimento de Sistemas no Senac São Paulo. Apaixonado por desenvolvimento de software e programação.</p>
+<p>## Estudante do 2º período de Análise e Desenvolvimento de Sistemas no Senac São Paulo. Apaixonado por desenvolvimento de software e programação.</p>
 
 <section>
     <h2>🚀 Habilidades</h2>
