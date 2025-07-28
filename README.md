@@ -5,16 +5,13 @@
 <section>
     <h2>🚀 Habilidades</h2>
     <list>
-        <li>Linguagens de Programação: C#, Java, Python</li>
+        <li>Linguagens de Programação: C#, Java, C++, Python</li>
         <li>Desenvolvimento Web: ASP.NET Core, REST / RESTFUL APIs, HTML, CSS, JavaScript</li>
         <li>Arquitetura de Desenvolvimento: MVC, Web APIs</li>
-        <li>Metodologias Ágeis: Scrum</li>
         <li>Banco de Dados: SQLite, SQL Server, MySQL</li>
         <li>Ferramentas de Versionamento: Git, GitHub</li>
     </list>
 </section>
-
-
 
 <section>
 <h2>📚 Educação</h2>
