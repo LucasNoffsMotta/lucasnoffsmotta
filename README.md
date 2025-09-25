@@ -1,9 +1,9 @@
 <h1>Sobre Mim</h1>
 
-<p>## Estudante do 2º período de Análise e Desenvolvimento de Sistemas no Senac São Paulo. Apaixonado por desenvolvimento de software e programação.</p>
+<p>## Estudante do 4º período de Análise e Desenvolvimento de Sistemas no Senac São Paulo. Apaixonado por desenvolvimento de software e programação.</p>
 
 <section>
-    <h2>🚀 Habilidades</h2>
+    <h2>Habilidades</h2>
     <list>
         <li>Linguagens de Programação: C#, Java, C++, Python</li>
         <li>Desenvolvimento Web: ASP.NET Core, REST / RESTFUL APIs, HTML, CSS, JavaScript</li>
@@ -14,7 +14,7 @@
 </section>
 
 <section>
-<h2>📚 Educação</h2>
+<h2> Educação</h2>
 <list>
 <li>Graduação em Análise e Desenvolvimento de Sistemas no Senac São Paulo</li>
 <li>Graduado em Sales and Marketing pela International Language Academy of Canada</li>
