@@ -3,27 +3,13 @@
 <p>## Estudante do 4º período de Análise e Desenvolvimento de Sistemas no Senac São Paulo. Apaixonado por desenvolvimento de software e programação.</p>
 
 <section>
-    <h2>Habilidades</h2>
-    <list>
-        <li>Linguagens de Programação: C#, Java, C++, Python</li>
-        <li>Desenvolvimento Web: ASP.NET Core, REST / RESTFUL APIs, HTML, CSS, JavaScript</li>
-        <li>Arquitetura de Desenvolvimento: MVC, Web APIs</li>
-        <li>Banco de Dados: SQLite, SQL Server, MySQL</li>
-        <li>Ferramentas de Versionamento: Git, GitHub</li>
-    </list>
+    <h2>Sobre mim</h2>
+    <p>
+Desenvolvedor Back-End com experiência em .NET Framework, ASP.NET e WinForms, integrando bancos de dados relacionais a sistemas escaláveis. Possui conhecimento sólido em C#, Python e SQL, aplicando boas práticas de código.
+Atualmente, atua no desenvolvimento e manutenção de um sistema ERP em .NET, implementando novas funcionalidades e otimizando processos internos. Experiente na criação de RESTful APIs e operações CRUD.
+Cursa Análise e Desenvolvimento de Sistemas e é fluente em inglês, com experiência internacional no Canadá em Data Annotation.
 </section>
-
-<section>
-<h2> Educação</h2>
-<list>
-<li>Graduação em Análise e Desenvolvimento de Sistemas no Senac São Paulo</li>
-<li>Graduado em Sales and Marketing pela International Language Academy of Canada</li>
-<li>Graduado em Gestão de Eventos pela Fatec Ipiranga</li>
-<li>Inglês Fluente</li>
-<li>Espanhol Intermediário</li>
-</list>
-</section>
-
+</p>
 <section>
 <h2>📧 Entre em Contato</h2>
 <li><a href="https://www.linkedin.com/in/lucas-noffs-motta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>  </li>
