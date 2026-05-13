@@ -1,7 +1,3 @@
-<h1>Sobre Mim</h1>
-
-<p>## Estudante do 4º período de Análise e Desenvolvimento de Sistemas no Senac São Paulo. Apaixonado por desenvolvimento de software e programação.</p>
-
 <section>
     <h2>Sobre mim</h2>
     <p>
